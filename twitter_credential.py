@@ -1,0 +1,6 @@
+# varaibles that contains the user credential to access twotter api 
+
+ACCESS_TOKEN= '1524626705234628610-3xQwoCFNWC3VIBqrLvx4b7W23JyfV7'
+ACCESS_TOKEN_SECRET='HN7aIKVz76lq7jCRTeqMu1ypq6UWvFnMOy9hlVqOkiO5K' 
+CONSUMER_KEY= 'MbYX1NYFOWtbCurvHP6y9s3MZ'
+CONSUMER_SECRET= 'y0NLQPITZRifz52GNhnIuY9oXJlpuzSkzrQizElEEEGN4TiC4a'
